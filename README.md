@@ -1,14 +1,13 @@
 > This repository is a template for anyone to start writing their own
 > unit test using googletest library with cmake.
 
-Note that you don't have to clone googletest manually into this repository
-as cmake will handle it nicely for you.
+Note that you don't have to clone googletest manually as cmake
+will handle it for you seamlessly.
 
 ## Usage
 
-Populate the code you want to test in src and include.
-Add your test cases in the tests directory.
-
+1. Populate `src` and `include` directory with your testing code.
+1. Add your test cases in the `tests` directory.
 
 ## Building
 
