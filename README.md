@@ -13,8 +13,8 @@ Need not worry about setting everything from scratch.
 ```bash
 git clone --depth 1 https://github.com/BruceChanJianLe/cpp-googletest.git
 ```
-1. Populate `src` and `include` directory with your testing code.
-1. Add your test cases in the `tests` directory.
+2. Populate `src` and `include` directory with your testing code.
+3. Add your test cases in the `tests` directory.
 
 ## Building
 
